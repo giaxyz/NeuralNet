@@ -1,7 +1,7 @@
 package NeuralNetworkXOR;
 import java.util.ArrayList;
 import java.util.Random;
-// test
+// test1
 
 public final class NNUtilities {
 	

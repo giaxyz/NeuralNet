@@ -1,5 +1,5 @@
 package NeuralNetworkXOR;
-// test
+// test1
 
 import java.util.ArrayList;
 

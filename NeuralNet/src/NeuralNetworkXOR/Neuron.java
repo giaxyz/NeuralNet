@@ -1,7 +1,7 @@
 package NeuralNetworkXOR;
 import java.util.ArrayList;
 import java.lang.Math;
-// test
+// test1
 
 public class Neuron {
 	
