@@ -2,7 +2,6 @@ package NeuralNetworkXOR;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-
 public class XOR_NN {
 
 	public static void main(String[] args) throws Exception {
@@ -20,7 +19,8 @@ public class XOR_NN {
 				
 				
 				//-----  Read in the  data ---------------------------
-				DataReadCSV csvRead = new DataReadCSV("C:/Users/Gia/GoldJava/NeuralNet/src/NeuralNetworkXOR/XORData_Nik.csv");
+				DataReadCSV csvRead = new DataReadCSV("C:/Users/Gia/GitRepositories/NeuralNet/src/NeuralNetworkXOR/XORData_Nik.csv");
+				
 				ArrayList<ArrayList<Double>> inputsX = csvRead.getInputsDoubles(false);
 				ArrayList<ArrayList<Double>> outputsY = csvRead.getOutputsDoubles(false);
 				
