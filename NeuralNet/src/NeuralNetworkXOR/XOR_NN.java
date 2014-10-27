@@ -17,7 +17,6 @@ public class XOR_NN {
 			ArrayList<Integer> numNeuronsPerLayer = new ArrayList<Integer>(Arrays.asList(2)); 
 			boolean manuallySettingWeights = true;
 				
-				
 				//-----  Read in the  data ---------------------------
 				DataReadCSV csvRead = new DataReadCSV("C:/Users/Gia/GitRepositories/NeuralNet/src/NeuralNetworkXOR/XORData_Nik.csv");
 				
