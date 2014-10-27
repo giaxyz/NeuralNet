@@ -2,6 +2,7 @@ package NeuralNetworkXOR;
 import java.util.ArrayList;
 import java.util.Random;
 
+
 public final class NNUtilities {
 	
 	public static ArrayList<Double> duplicateArrayList(ArrayList<Double> originalList){
