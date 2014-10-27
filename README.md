@@ -1,4 +1,4 @@
 NeuralNet
 =========
 
-Goldsmiths Unversity Assignment, Neural Networks In JAVA
+Neural Networks tests in JAVA.  
