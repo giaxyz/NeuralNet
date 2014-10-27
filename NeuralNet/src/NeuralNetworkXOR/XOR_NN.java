@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class XOR_NN {
 
 	public static void main(String[] args) throws Exception {
-	
 		
 		//----------------User must set these variables-----------------------------
 		
