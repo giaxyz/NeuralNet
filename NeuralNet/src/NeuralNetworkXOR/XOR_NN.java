@@ -1,6 +1,7 @@
 package NeuralNetworkXOR;
 import java.util.ArrayList;
 import java.util.Arrays;
+// test
 
 public class XOR_NN {
 
