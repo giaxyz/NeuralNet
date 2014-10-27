@@ -6,6 +6,7 @@ public class XOR_NN {
 
 	public static void main(String[] args) throws Exception {
 		
+		
 		//----------------User must set these variables-----------------------------
 		
 				//-----The number of neurons in each hidden layer, as an int array. 
